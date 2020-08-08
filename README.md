@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🙌没有人
-👐比我
-👌更懂
-☝服务器
+🙌没有人  
+👐比我  
+👌更懂  
+☝服务器  
 
 <!--
 **jiayaoguang/jiayaoguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

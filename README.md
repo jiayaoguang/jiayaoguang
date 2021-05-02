@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-🙌没有人  
-👐比我  
-👌更懂  
-☝服务器  
+![avatar](https://jiayaoguang.github.io/images/blogo_img_fang.png)
+
+🙌  
+👐  
+👌  
+☝  
 
 <!--
 **jiayaoguang/jiayaoguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
